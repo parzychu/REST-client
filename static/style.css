@@ -1,0 +1,117 @@
+body {
+	background-color: #372a27;
+}
+header {
+	text-align: center;
+	font-size: 30px;
+	padding: 5px;
+	width: 86%;
+}
+#mainblock {
+	width: 86%;
+	margin: auto;
+	background-color: #da7049;
+}
+
+#site-menu {
+	width: 20%;  
+	float: left;
+	background-color: #DA7049;
+	margin-top: 56px;
+}
+
+.menu-item {
+	display: block;
+	text-decoration: none;
+	background-color: #1E547A;
+	color: #FFF9E7;
+	padding: 5px;
+	margin: 5px;
+}
+#section {
+	float: right;
+	background-color: #da7049;
+	width: 78%;
+}
+#label {
+	background-color: #da7049;
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 10px;
+	margin-top: 10px
+}
+
+.from {
+	margin: 5px;
+	background-color: #5180A1;
+	font-weight: 600;
+}
+.title {
+	margin: 5px;
+	padding-left: 10px;
+	padding-right: 50%;
+}
+.tag {
+	margin: 5px;
+	padding-left: 20px;
+}
+.category {
+	margin: 5px;
+	padding-left: 20px;
+}
+.subsection {
+	background-color: #5180A1;
+	margin: 10px;	
+	padding: 10px;
+}
+
+.delete {
+	float:right;
+	margin-top: -20px;
+}
+.edit {
+	float:right;
+	margin-top: -20px;
+	padding-right: 40px;
+}
+
+.msg {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+.content {
+	margin: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	background-color: #39AC41;
+	height: auto;
+	width: 94%;
+}
+
+#tag {
+	margin-right: 80%;
+	margin-bottom: 10px;
+}
+
+#category {
+	margin-right: 90%;
+	margin-bottom: 10px;
+}
+
+#title {
+	margin-right: 80%;
+	margin-bottom: 10px;
+}
+#content {
+	margin-right: 80%;
+}
+#error_msg {
+	background-color: #BE2A26;
+	text-align: center;
+}
+fieldset button{
+	margin-top: 10px;
+	margin-left: 120px;
+}
